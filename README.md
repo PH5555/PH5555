@@ -8,7 +8,7 @@
 - Python ★☆☆☆☆
 - C ★★☆☆☆
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PH5555&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH5555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH5555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :telephone_receiver: Contact
 
