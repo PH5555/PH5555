@@ -3,7 +3,7 @@
 안드로이드 프로그래밍, 게임 프로그래밍, 가상현실, 프론트엔드, 백엔드 모두 관심이 있습니다!
 
 ### ⚡ Languages & Tools
-- Java & Andrioid ★★☆☆☆
+- Java & Andrioid ★★★☆☆
 - C# & Unity ★★☆☆☆ 
 - Python ★☆☆☆☆
 - C ★★☆☆☆
