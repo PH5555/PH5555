@@ -2,9 +2,10 @@
 - Java & Andrioid ★★★☆☆
 - C# & Unity ★★☆☆☆ 
 - Python ★☆☆☆☆
-- C ★★☆☆☆
+- C / C++ ★★☆☆☆
 - Kotlin ★☆☆☆☆
 - HTML & CSS & JavaScript ★☆☆☆☆
+- DART & Flutter ★☆☆☆☆
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH5555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
