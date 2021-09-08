@@ -1,4 +1,4 @@
-### ⚡ Languages
+### ⚡ skills
 - Java & Andrioid ★★★☆☆
 - Dart & Flutter ★☆☆☆☆
 - C# & Unity ★★☆☆☆ 
