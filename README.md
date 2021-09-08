@@ -1,4 +1,4 @@
-### ⚡ skills
+### ⚡ Skills
 - Java & Andrioid ★★★☆☆
 - Dart & Flutter ★☆☆☆☆
 - C# & Unity ★★☆☆☆ 
@@ -22,3 +22,5 @@
         src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100016615594739"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH5555&show_icons=true&theme=radical)
