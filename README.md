@@ -4,4 +4,4 @@
 <a href="https://ph5555.github.io">포트폴리오(미완, 개발중)</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH5555&show_icons=true&theme=radical)<br/>
-<!-- ![ph5](https://github-readme-stats.vercel.app/api/top-langs/?username=PH5555&layout=compact) -->
+![ph5](https://github-readme-stats.vercel.app/api/top-langs/?username=PH5555&layout=compact)
